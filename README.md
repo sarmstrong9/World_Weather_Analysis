@@ -1,6 +1,4 @@
-# World_Weather_Analysis
-# API Project
-
+# World_Weather_Analysis - API Project
 
 ## Deliverables 
 - Deliverable 1
